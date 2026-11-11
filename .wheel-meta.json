@@ -1,0 +1,22 @@
+{
+  "wheel_id": 875,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-115",
+  "project": "property-management-sunshine-coast-quotes-explained-f9d54133414",
+  "parent_t1_ref": "propertymanagersunshinecoast-157",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property management sunshine coast quotes explained",
+  "intended_url": "http://property-management-sunshine-coast-quotes-explained-f9d54133414.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "204959edc39f06d6",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/propertymanagersunshinecoast-157/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
